@@ -13,10 +13,6 @@ struct ContentView: View {
     @State private var sliderValue = 50.0
     
     #warning("questa è una struct non una classe, andrebbe cambiato!")
-//    da local da local2
-//    da local da git 2
-    //in locale devi prendere questo da git
-    //questo lo stashi, prendi da repo, e poi ricarichi
     @State private var game = Game()
 
     var body: some View {
