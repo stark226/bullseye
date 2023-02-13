@@ -15,6 +15,7 @@ struct ContentView: View {
     #warning("questa è una struct non una classe, andrebbe cambiato!")
 //    da local da local2
 //    da local da git 2
+    //in locale devi prendere questo da git
     @State private var game = Game()
 
     var body: some View {
