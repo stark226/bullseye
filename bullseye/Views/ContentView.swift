@@ -12,7 +12,7 @@ struct ContentView: View {
     @State private var alertIsVisible = false
     @State private var sliderValue = 50.0
     
-    #warning("questa è una struct non una classe, andrebbe cambiator")
+    #warning("questa è una struct non una classe, andrebbe cambiato!")
     @State private var game = Game()
 
     var body: some View {
