@@ -14,7 +14,7 @@ struct ContentView: View {
     
     #warning("questa è una struct non una classe, andrebbe cambiato!")
     @State private var game = Game()
-
+//hello!
     var body: some View {
         VStack {
             Text("🎯🎯🎯\n put the bullseye as close ads you can")
